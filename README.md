@@ -1,4 +1,4 @@
-# Android-Movie-Backlog
+# Android Movie Backlog
 
 An android application to keep track of oall the movies and TV shows that I want to view.
 
